@@ -27,7 +27,7 @@ const Index = () => {
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 text-foreground">
             Your Network,<br />
-            <span className="gradient-primary bg-clip-text text-transparent">Your Privacy</span>
+            <span className="text-cyber-blue drop-shadow-lg">Your Privacy</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
